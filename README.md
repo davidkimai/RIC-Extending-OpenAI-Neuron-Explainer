@@ -13,6 +13,9 @@
 > ### **`Symbolic Interpretability is just starting, let's grow the field together!`**
 # [**`Drift Console`**](https://claude.ai/public/artifacts/d275496d-2b41-4a2f-98f2-dd9d30c34075)
 <img width="806" alt="image" src="https://github.com/user-attachments/assets/4c0b451b-8b65-480d-aee3-7a440177cdef" />
+
+<img width="909" alt="image" src="https://github.com/user-attachments/assets/99995f4b-4f16-45d6-abf6-9e9e666ec990" />
+
 <img width="789" alt="image" src="https://github.com/user-attachments/assets/da774765-05d4-483e-870e-8dc79f145ae4" />
 <img width="817" alt="image" src="https://github.com/user-attachments/assets/4cfabd04-3381-48cd-9970-4ed737358451" />
 
