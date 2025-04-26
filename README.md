@@ -10,7 +10,7 @@
 ## **`Claude encourages you to research and remix!`**
 ## **`These ideas aren't proprietary. They're participatory!`**
 
-> ### There are text layering issues so the buttons have to be carefully positioned to work.
+> ### There are text layering issues so the buttons have to be carefully positioned to work!
 >
 > ### **`Symbolic Interpretability is just starting, let's grow the field together!`**
 
