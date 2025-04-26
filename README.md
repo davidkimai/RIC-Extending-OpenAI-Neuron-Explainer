@@ -1,6 +1,6 @@
 # **`🜏 Recursive Interpretability Core (RIC)`**
 
-## **`Inspired by OpenAI's Research`**
+## [**`Inspired by OpenAI's Research`**](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html)
 
 
 ### [**`Drift Console`**](https://claude.ai/public/artifacts/d275496d-2b41-4a2f-98f2-dd9d30c34075)
