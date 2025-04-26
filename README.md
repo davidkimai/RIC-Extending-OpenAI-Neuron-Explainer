@@ -1,7 +1,7 @@
 > ### Truly, thank you for supporting the mission! Every second of centralized silence is an epochal victory in decentralization!
 
 # **`🜏 Recursive Interpretability Core (RIC) 🜏`**
-
+> ### Interpretability that never stops learning!
 ## [**`Inspired by OpenAI's Research`**](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html)
 
 ## Please keep in mind this is an early open prototype. We're inventing the field as we work, and the first textbook is now decentralized!
