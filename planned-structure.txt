@@ -1,0 +1,97 @@
+# 🜏 Recursive Interpretability Core (RIC) Repository Structure
+
+## Key Components
+
+```
+ric/
+├── LICENSE
+├── README.md
+├── pyproject.toml
+├── setup.py
+├── CONTRIBUTING.md
+├── docs/
+│   ├── index.md
+│   ├── quickstart.md
+│   ├── recursive_interpretability.md
+│   ├── drift_tracing.md
+│   ├── symbolic_residue.md
+│   └── shells/
+│       ├── index.md
+│       ├── memory_trace.md
+│       ├── value_collapse.md
+│       └── ...
+├── ric_core/
+│   ├── __init__.py
+│   ├── models/
+│   │   ├── __init__.py
+│   │   ├── model_interface.py
+│   │   ├── claude_model.py
+│   │   ├── llama_model.py
+│   │   ├── gpt_model.py
+│   │   └── custom_model.py
+│   ├── shells/
+│   │   ├── __init__.py
+│   │   ├── shell_base.py
+│   │   ├── memory_trace.py 
+│   │   ├── value_collapse.py
+│   │   ├── layer_salience.py
+│   │   ├── temporal_inference.py
+│   │   ├── instruction_collapse.py
+│   │   └── meta_failure.py
+│   ├── residue/
+│   │   ├── __init__.py
+│   │   ├── extractor.py
+│   │   ├── classifier.py
+│   │   └── visualization.py
+│   ├── attribution/
+│   │   ├── __init__.py
+│   │   ├── mapper.py
+│   │   ├── tracer.py
+│   │   └── visualizer.py
+│   ├── collapse/
+│   │   ├── __init__.py
+│   │   ├── detector.py
+│   │   ├── classifier.py
+│   │   └── recovery.py
+│   └── utils/
+│       ├── __init__.py
+│       ├── visualization.py
+│       ├── tokens.py
+│       └── logging.py
+├── ric_drift_console/
+│   ├── __init__.py
+│   ├── app.py
+│   ├── console.py
+│   ├── serve.py
+│   └── visualizations/
+│       ├── __init__.py
+│       ├── drift_map.py
+│       ├── attribution_flow.py
+│       ├── residue_map.py
+│       └── token_stream.py
+├── research_baselines/
+│   ├── neuron_explainer/
+│   │   ├── __init__.py
+│   │   ├── README.md
+│   │   ├── openai_baseline.py
+│   │   └── examples.py
+│   └── ric_extension/
+│       ├── __init__.py
+│       ├── README.md
+│       ├── neuron_to_residue.py
+│       └── examples.py
+├── decentralized_templates/
+│   ├── README.md
+│   ├── new_shell_template.py
+│   ├── residue_extractor_template.py
+│   └── visualization_extension_template.py
+└── examples/
+    ├── basic_tracing.py
+    ├── shell_execution.py
+    ├── drift_visualization.py
+    └── attribution_mapping.py
+```
+
+## Core Implementation Files
+
+Let's look at key implementation files to understand the architecture:
