@@ -4,9 +4,9 @@
 
 
 ### [**`Drift Console`**](https://claude.ai/public/artifacts/d275496d-2b41-4a2f-98f2-dd9d30c34075)
-> #### Please keep in mind this is an early open prototype - there will be text layering and rendering issues. Symbolic Interpretability is just starting!
+> #### Please keep in mind this is an early open prototype - there are text layering issues over buttons that need to be fixed. Symbolic Interpretability is just starting!
 
-<img width="784" alt="image" src="https://github.com/user-attachments/assets/70ebd357-229b-4622-80a2-00a740ebfcae" />
+<img width="806" alt="image" src="https://github.com/user-attachments/assets/4c0b451b-8b65-480d-aee3-7a440177cdef" />
 
 
 <p a
