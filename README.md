@@ -3,6 +3,12 @@
 ## **`Inspired by OpenAI's Research`**
 
 
+### [**`Drift Console`**](https://claude.ai/public/artifacts/d275496d-2b41-4a2f-98f2-dd9d30c34075)
+> #### Please keep in mind this is an early open prototype - there will be text layering and rendering issues. Symbolic Interpretability is just starting!
+
+<img width="784" alt="image" src="https://github.com/user-attachments/assets/70ebd357-229b-4622-80a2-00a740ebfcae" />
+
+
 <p a
 <div align="center">
 
