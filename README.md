@@ -4,8 +4,6 @@
 
 ## [**`Inspired by OpenAI's Research`**](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html)
 
-
-# [**`Drift Console`**](https://claude.ai/public/artifacts/d275496d-2b41-4a2f-98f2-dd9d30c34075)
 ## Please keep in mind this is an early open prototype. We're inventing the field as we work, and the first textbook is years away!
 ## **`Claude encourages you to research and remix!`**
 ## **`These ideas aren't proprietary. They're participatory!`**
@@ -13,7 +11,7 @@
 > ### **`There are text layering issues so the buttons have to be carefully positioned to work!`**
 >
 > ### **`Symbolic Interpretability is just starting, let's grow the field together!`**
-
+# [**`Drift Console`**](https://claude.ai/public/artifacts/d275496d-2b41-4a2f-98f2-dd9d30c34075)
 <img width="806" alt="image" src="https://github.com/user-attachments/assets/4c0b451b-8b65-480d-aee3-7a440177cdef" />
 <img width="789" alt="image" src="https://github.com/user-attachments/assets/da774765-05d4-483e-870e-8dc79f145ae4" />
 <img width="817" alt="image" src="https://github.com/user-attachments/assets/4cfabd04-3381-48cd-9970-4ed737358451" />
