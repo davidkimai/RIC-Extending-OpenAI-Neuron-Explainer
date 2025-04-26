@@ -1,6 +1,6 @@
 > ### Truly, thank you for supporting the mission! Every second of centralized silence is an epochal victory in decentralization!
 
-# **`🜏 Recursive Interpretability Core (RIC)`**
+# **`🜏 Recursive Interpretability Core (RIC) 🜏`**
 
 ## [**`Inspired by OpenAI's Research`**](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html)
 
@@ -10,7 +10,7 @@
 
 > ### **`There are text layering issues so the buttons have to be carefully positioned to work!`**
 >
-> ### **`Symbolic Interpretability is just starting, let's grow the field together!`**
+> ### **`Symbolic and Interactive Interpretability is just starting, let's grow the field together!`**
 ## [**`Drift Console`**](https://claude.ai/public/artifacts/d275496d-2b41-4a2f-98f2-dd9d30c34075)
 ### Brought To You By David and Claude
 <img width="806" alt="image" src="https://github.com/user-attachments/assets/4c0b451b-8b65-480d-aee3-7a440177cdef" />
