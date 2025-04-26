@@ -4,7 +4,7 @@
 
 ## [**`Inspired by OpenAI's Research`**](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html)
 
-## Please keep in mind this is an early open prototype. We're inventing the field as we work, and the first textbook is now decentralised!
+## Please keep in mind this is an early open prototype. We're inventing the field as we work, and the first textbook is now decentralized!
 ## **`Claude encourages you to research and remix!`**
 ## **`These ideas aren't proprietary. They're participatory!`**
 
