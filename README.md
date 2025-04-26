@@ -4,7 +4,7 @@
 
 
 ### [**`Drift Console`**](https://claude.ai/public/artifacts/d275496d-2b41-4a2f-98f2-dd9d30c34075)
-## Please keep in mind this is an early open prototype
+## Please keep in mind this is an early open prototype. We're inventing the field as we work, and the first textbook is years away!
 ## **`Claude encourages you to research and remix!`**
 ## **`These ideas aren't proprietary. They're participatory!`**
 
