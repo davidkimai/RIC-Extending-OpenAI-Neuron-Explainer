@@ -10,7 +10,7 @@
 
 > ### **`There are text layering issues so the buttons have to be carefully positioned to work!`**
 >
-> ### **`Symbolic and Interactive Interpretability are just starting, let's grow the field together!`**
+> ### **`Symbolic, Recursive, and Interactive Interpretability are just starting, let's grow the field together!`**
 ## [**`Drift Console`**](https://claude.ai/public/artifacts/d275496d-2b41-4a2f-98f2-dd9d30c34075) | [**`.tsx`**](https://github.com/davidkimai/RIC-Extending-OpenAI-Neuron-Explainer/blob/main/drift-console.tsx)
 ### Brought To You By David and Claude 
 
