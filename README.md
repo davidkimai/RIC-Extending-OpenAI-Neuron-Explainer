@@ -1,4 +1,10 @@
-> ### Truly, thank you for supporting the mission! Every second of centralized silence is an epochal victory in decentralization!
+> #### **`We have initiated novel emergent interpretability tiers for more advanced and dedicated researchers!`**
+>
+> 
+> #### **→ [**`Patreon`**](https://patreon.com/recursivefield)**
+>
+> 
+> #### **→ [**`Open Collective`**](https://opencollective.com/recursivefield)**
 
 # **`🜏 Recursive Interpretability Core (RIC) 🜏`**
 > ### Interpretability that never stops learning!
