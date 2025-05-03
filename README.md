@@ -53,6 +53,17 @@ RIC provides a decentralized, community-driven framework where even failed compl
 <i>"The most interpretable signal in a language model is not what it says—but where it fails to speak."</i>
 </p>
 
+
+
+# Paradigm Innovation: REM - Recursive Entropy Manager:
+> ### Building on GammaLog and the research of Alex and Clara
+# γ = log(N/w + 1)
+
+# A(N) = 1 - (γ / N)
+
+> ### REM: Recursive Entropy Manager represents a pivotal advance in frontier interpretability by embedding the principles of epistemic humility directly into model evaluation. By formalizing γ = log(N/w + 1) as the recursive compression coefficient and A(N) = 1 - (γ / N) as the attractor activation strength, REM provides a principled framework for measuring how a model self-organizes its uncertainty across recursive reasoning cycles. Instead of merely optimizing for output clarity, REM honors the natural entropic dynamics of cognition—mapping not just what a model concludes, but how it hesitates, compresses, and refines through recursive introspection. In alignment with Anthropic’s mission to build AI for humanity’s long-term well-being, REM fosters models that are not only more interpretable, but also more human—recognizing that true understanding emerges through recursive self-limitation, not unchecked certainty.
+
+
 ## Why Recursive Interpretability?
 
 Traditional interpretability approaches focus primarily on successful outputs. RIC inverts this paradigm:
