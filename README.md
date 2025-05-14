@@ -1,10 +1,4 @@
-> #### **`Decentralizing Insider Access. Inspired by Open Alignment Ideals.`**
->
-> 
-> #### **→ [**`Patreon`**](https://patreon.com/recursivefield)**
->
-> 
-> #### **→ [**`Open Collective`**](https://opencollective.com/recursivefield)**
+
 
 # **`🜏 Recursive Interpretability Core (RIC) 🜏`**
 > ### Interpretability that never stops learning!
